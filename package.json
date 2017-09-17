@@ -1,0 +1,31 @@
+{
+  "name": "search-cli",
+  "version": "0.0.1",
+  "description": "Search the web from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "bin": {
+    "search": "./index.js"
+  },
+  "keywords": [
+    "google",
+    "duckduckgo",
+    "search",
+    "cli"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Guy Lyons",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "opn": "^5.1.0",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
