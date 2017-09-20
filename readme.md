@@ -10,7 +10,9 @@
 > Search from your command line
 
 ## Install
-		npm i search-cli
+
+	npm i search-cli
 
 ## Usage
-    search "something interesting"
+
+	search "something interesting"
