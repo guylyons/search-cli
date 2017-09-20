@@ -9,6 +9,10 @@
   "bin": {
     "search": "./index.js"
   },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/guylyons/search-cli"
+  },
   "keywords": [
     "google",
     "duckduckgo",
