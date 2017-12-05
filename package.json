@@ -13,15 +13,8 @@
     "type": "git",
     "url": "https://github.com/guylyons/search-cli"
   },
-  "keywords": [
-    "google",
-    "duckduckgo",
-    "search",
-    "cli"
-  ],
-  "files": [
-    "index.js"
-  ],
+  "keywords": ["google", "duckduckgo", "search", "cli"],
+  "files": ["index.js"],
   "author": "Guy Lyons",
   "license": "MIT",
   "dependencies": {
